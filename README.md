@@ -1,2 +1,2 @@
 # keyword-for-all-programming
-keyword of all programming language if you want to have every keywords of any programming language 
+keywords of all programming language if you want to have every keywords of any programming language,check out this repository.
